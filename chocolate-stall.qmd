@@ -1,0 +1,75 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Chocolate Stall
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/wizzle.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Cara approached the chocolate stall, where a kind old wizard named Wizzle was selling enchanted chocolates.
+
+Wizzle pointed to a box of Giggle Gumdrops. "These giggly treats will make you laugh and dance! Would you like to try some?"
+
+Wizzle then showed her a jar of Sparkle Sweets. "These sweets will make you sparkle and shine like a star! Would you like a taste?"
+
+Lastly, Wizzle unveiled a plate of Frosty Fudge. "This fudge will give you the power to create snowflakes with a wave of your hand! Do you want to try it?"
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <a href="market.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="giggle-gumdrops.html"><img src="images/giggle-gumdrops.png" alt="Giggle Gumdrops"><div>Giggle Gumdrops</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/sparkle-sweets.png" alt="Sparkle Sweets"><div>Sparkle Sweets</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/frosty-fudge.png" alt="Frosty Fudge"<div>Frosty Fudge</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::
