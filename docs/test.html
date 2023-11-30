@@ -58,6 +58,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -72,20 +73,38 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
-<div class="scenario column-screen page-columns page-full" style="height: 100%; min-height: 100vh; opacity: 0.4">
-<section id="this-is-sample-text" class="level2 column-body" style="background-color: black; padding: 10px; opacity: 0.8">
-<h2 class="anchored" data-anchor-id="this-is-sample-text">This is sample text</h2>
-<p>Once upon a time, in a duplex far, far away</p>
-</section>
-<div style="background: rgba(0,0,0,.8);">
-<p><img src="images/sample1.png" class="img-fluid"></p>
+<p>content <a href="#fig-plot1">Figure&nbsp;1</a> and <a href="#fig-plot2">Figure&nbsp;2</a></p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">plot1</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">plot2</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-plot1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="test_files/figure-html/fig-plot1-1.png" class="img-fluid figure-img" width="672"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: figure 1</figcaption>
+</figure>
 </div>
-<div class="column-body" style="background-color: black; padding: 10px; opacity: 0.8">
-<p>There lived a maternal smoker</p>
+</div>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-plot2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="test_files/figure-html/fig-plot2-1.png" class="img-fluid figure-img" width="672"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: figure 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 
@@ -329,4 +348,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

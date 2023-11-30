@@ -12,4 +12,5 @@ format:
       - custom.scss
     css: styles.css
     toc: false
+    smooth-scroll: true
 

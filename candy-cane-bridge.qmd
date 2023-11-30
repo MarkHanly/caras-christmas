@@ -1,0 +1,79 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Candy Cane Bridge
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/jingleberry.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Still giggling, Cara descended towards the candy-cane bridge. The air was filled with the sweet scent of peppermint and magic.
+
+Just as Cara set foot on the candy-cane bridge, she heard a tiny voice nearby. Turning around, she discovered a mischievous Christmas elf named Jingleberry. With a twinkle in his eye and a hat adorned with jingling bells, Jingleberry looked like he was up to something exciting.
+
+"Hello there, Cara!" Jingleberry exclaimed, doing a little jig. "I'm Jingleberry, the elf of festive fun! I need your help with something important."
+
+Cara looked at Jingleberry, her eyes wide with curiosity. "What can I do to help, Jingleberry?"
+
+Jingleberry explained that he had gotten lost in the snow and couldn't find his way back to Santa's workshop. He had even lost his knapsack and had no supper! 
+
+Just then, Jingleberry's tummy started to rumble with hunger. Poor little elf! thought Cara. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <a href="giggle-gumdrops.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="share-gumdrops.html"><img src="images/giggle-gumdrops.png" alt="Share the last giggle gumdrops"><div>Share the last giggle gumdrops</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/forest-path.png" alt="Help Jingleberry hunt for his knapsack"><div>Help Jingleberry hunt for his knapsack</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Search for Santa's workshop"<div>Search for Santa's workshop</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

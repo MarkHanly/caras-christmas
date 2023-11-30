@@ -1,0 +1,79 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Santa's workshop
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/mrs-claus.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Santa's workshop was nestled in a clearing deep within the night-time forest. As Cara and Jingleberry approached they could hear the rhythmic sound of hammers and cheerful singing. 
+
+Home at last! cried Jingleberry happily. But his smile did not last long.
+
+At the entrance of the workshop, they were welcomed by Mrs. Claus, who wore a worried expression. "Oh, hello dears! Have you seen Santa by any chance? It's Christmas eve and he's nowhere to be found, I'm starting to get a little worried."
+
+Cara and Jingleberry exchanged concerned glances. There were no more giggle gumdrops left, they would have to return to the night-time forest on foot. 
+
+We could always take my jinglebike!? suggested Jingleberry, pointing towards a little red bicycle with a sturdy frame and candycane handlebars. 
+
+Or... said Mrs Claus thoughtfully looking towards the lamplit barn, there's always Tipsycake?
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <a href="share-gumdrops.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="index.html"><img src="images/night-time-forest.png" alt="Go back on foot"><div>Go back on foot</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/jinglebike.png" alt="Take the jinglebike"><div>Take the jinglebike</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the barn"<div>Go to the barn</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

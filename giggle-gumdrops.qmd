@@ -51,7 +51,7 @@ In front of her, a candy cane bridge led to a mysterious forest. To her left, a 
   
   <div class="options">
   <div class="option">
-    <a href="index.html"><img src="images/candy-cane-bridge.png" alt="The candy cane bridge"><div>The candy cane bridge</div></a>
+    <a href="candy-cane-bridge.html"><img src="images/candy-cane-bridge.png" alt="The candy cane bridge"><div>The candy cane bridge</div></a>
       </div>
   
   <div class="option">

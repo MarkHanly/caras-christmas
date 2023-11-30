@@ -1,0 +1,77 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Flying with Jingleberry
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/cara-and-jingleberry.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Cara giggled and pulled out the remaining giggling gumdrops from her pocket. "How about we both have a gumdrop and see what happens?" she suggested, handing one to Jingleberry.
+
+The moment they both popped the giggling gumdrops into their mouths, laughter bubbled up from their hearts. The candy-cane bridge beneath them started to shimmer, and suddenly, they were lifted into the air, soaring over the Christmas forest.
+
+As they giggled and floated through the sky, they spotted Santa's sleigh nestled among the tall evergreen trees. Santa's reindeer were grazing on magical snowflakes, and Santa himself was checking his list with a twinkle in his eye.
+
+Next, they flew over Santa's workshop, where cheerful elves were busy wrapping presents and preparing for the big night. The lights twinkled like a million stars, and the sound of holiday cheer filled the air.
+
+But there was something else catching their attention. In a clearing below, they saw a group of playful snowmen having a snowball fight. Each snowball sparkled with a different color, creating a dazzling display of winter magic.
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <a href="candy-cane-bridge.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="index.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Santa's sleigh</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Santa's workshop"><div>Santa's workshop</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/snowmen.png" alt="The snowmen"<div>The snowmen</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::
