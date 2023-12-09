@@ -55,7 +55,7 @@ In front of her, a candy cane bridge led to a mysterious forest. To her left, a 
       </div>
   
   <div class="option">
-  <a href="index.html"><img src="images/jingle-bell-path.png" alt="The jingle bell path"><div>The jingle bell path</div></a>
+  <a href="jingle-bell-path.html"><img src="images/jingle-bell-path.png" alt="The jingle bell path"><div>The jingle bell path</div></a>
   </div>
   
 

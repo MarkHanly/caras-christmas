@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-With Madame Mistletoe's words in her head, Cara skipped along the Jingle Bell Path, surrounded by snow-covered tress on either side. The sound of her footsteps mixed with the cheerful jingling around her. 
+With Madame Mistletoe's words in her head, Cara skipped along the Jingle Bell Path, surrounded by snow-covered trees on either side. The sound of her footsteps mixed with the cheerful jingling around her. 
 
 As Cara wandered deeper into the night-time forest, she started to notice a group of mischievous snowmen assembling behind her. Suddenly, the snowmen came to life, pelting her with snowballs. Cara giggled as she tried to dodge the frosty onslaught, but soon found herself surrounded.
 
@@ -42,6 +42,10 @@ With a swift wave of his jingle-berry-filled wand, Jingleberry cast a spell that
 "Phew, that was close! Thanks for saving me, Jingleberry," Cara exclaimed, grateful for her new elf friend.
 
 Jingleberry grinned, "No problem at all! Us elves stick together, especially during the most jingling time of the year. 
+
+"Where will this path take me, Jingleberry?" asked Cara.
+
+Why this is the way to Santa's workshop, silly goose! teased Jingleberry. Just keep following that path. Unless you want to have a go on my Jinglebike first he offered? 
 
 ::::
 
@@ -59,13 +63,13 @@ Jingleberry grinned, "No problem at all! Us elves stick together, especially dur
   
   <div class="options">
   <div class="option">
-  <a href="index.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
+  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Search for Santa's workshop"<div>Continue to Santa's workshop</div></a>
   </div>
   
   <div class="option">
-  <a href="index.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
+  <a href="jinglebike2.html"><img src="images/jinglebike.png" alt="Take the jinglebike for a spin"><div>Take the jinglebike for a spin</div></a>
   </div>
-
+  
   </div>
   ```
 

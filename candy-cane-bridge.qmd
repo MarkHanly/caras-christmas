@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {

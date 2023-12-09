@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {
@@ -59,7 +59,7 @@ Or... said Mrs Claus thoughtfully looking towards the lamplit stable, there's al
   </div>
 
   <div class="option">
-  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the stable"<div>Go to the barn</div></a>
+  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the stable"<div>Go to the stable</div></a>
   </div>
   
   </div>
