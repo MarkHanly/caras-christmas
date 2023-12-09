@@ -35,11 +35,9 @@ Home at last! cried Jingleberry happily. But his smile did not last long.
 
 At the entrance of the workshop, they were welcomed by Mrs. Claus, who wore a worried expression. "Oh, hello dears! Have you seen Santa by any chance? It's Christmas eve and he's nowhere to be found, I'm starting to get a little worried."
 
-Cara and Jingleberry exchanged concerned glances. There were no more giggle gumdrops left, they would have to return to the night-time forest on foot. 
+Cara and Jingleberry exchanged concerned glances. "We could go back and search the night-time forest?", suggested Jingleberry. 
 
-We could always take my jinglebike!? suggested Jingleberry, pointing towards a little red bicycle with a sturdy frame and candycane handlebars. 
-
-Or... said Mrs Claus thoughtfully looking towards the lamplit barn, there's always Tipsycake?
+Or... said Mrs Claus thoughtfully looking towards the lamplit stable, there's always Tipsycake?
 
 ::::
 
@@ -52,20 +50,16 @@ Or... said Mrs Claus thoughtfully looking towards the lamplit barn, there's alwa
 <div class="container">
 
   <div id="back">
-  <a href="share-gumdrops.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
   <div class="options">
   <div class="option">
-  <a href="index.html"><img src="images/night-time-forest.png" alt="Go back on foot"><div>Go back on foot</div></a>
+  <a href="sleigh-on-foot.html"><img src="images/night-time-forest.png" alt="Go back on foot"><div>Go back on foot</div></a>
   </div>
-  
+
   <div class="option">
-  <a href="index.html"><img src="images/jinglebike.png" alt="Take the jinglebike"><div>Take the jinglebike</div></a>
-  </div>
-  
-  <div class="option">
-  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the barn"<div>Go to the barn</div></a>
+  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the stable"<div>Go to the barn</div></a>
   </div>
   
   </div>

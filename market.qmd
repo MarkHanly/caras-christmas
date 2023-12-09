@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {
@@ -31,9 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 As Cara, entered the market, her eyes sparkled with excitement. The first thing she saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted her with their deliciously festive shapes.
 
-Past the chocolate stand was a mysterious tent, where a wise old fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
-
-Further down the glittering path, Cara spied a cozy stable adorned with glowing lanterns. The stable emanated a comforting warmth, and as she peeked inside, she thought she heard the whiny of a pony.
+Further down the glittering path, Cara spied a mysterious tent, where a wise old fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
 
 ::::
 
@@ -46,7 +44,7 @@ Further down the glittering path, Cara spied a cozy stable adorned with glowing 
 <div class="container">
 
   <div id="back">
-  <a href="market.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
   <div class="options">
@@ -55,11 +53,7 @@ Further down the glittering path, Cara spied a cozy stable adorned with glowing 
   </div>
   
   <div class="option">
-  <a href="index.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
-  </div>
-  
-  <div class="option">
-  <a href="index.html"><img src="images/stable.png" alt="The stable"<div>The stable</div></a>
+  <a href="madame-mistletoe.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
   </div>
   
   </div>

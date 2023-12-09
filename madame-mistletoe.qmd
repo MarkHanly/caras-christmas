@@ -1,0 +1,81 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Fortune Teller
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/madam-mistletoe.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Cara wandered wandered towards the fortune tellers, her eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As she approached the tent she noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
+
+Intrigued, Cara entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, she found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly elf with long red hair and twinkling green eyes.
+
+"Ah, welcome, dear child! I've been expecting you," Madame Mistletoe said with smile.
+
+Cara blinked in surprise. "You have? How did you know?"
+
+Madame Mistletoe chuckled softly. "I see things that others might not. Now, let us unveil the mysteries of your Christmas fortune."
+
+Cara eagerly sat across from Madame Mistletoe as she held the crystal bauble up to the light. It sparkled with a magical glow, revealing images and hints of the adventure that awaited.
+
+"The crystal shows me visions of giggles and gumdrops. Eat them with joy, and let the laughter guide your way," Madame Mistletoe said, her voice filled with warmth.
+
+"But beware the snowmen, they are not always what they seem" added madame Mistletoe frostily.
+
+Cara nodded, her excitement building. She thanked Madame Mistletoe and left the tent. Where to next? she thought, with a thrill. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="chocolate-stall.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="candy-cane-bridge.html"><img src="images/candy-cane-bridge.png" alt="The candy cane bridge"><div>The candy cane bridge</div></a>
+  </div>
+
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

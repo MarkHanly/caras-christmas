@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {
@@ -33,9 +33,7 @@ Cara approached the chocolate stall, where a kind old wizard named Wizzle was se
 
 Wizzle pointed to a box of Giggle Gumdrops. "These giggly treats will make you laugh and dance! Would you like to try some?"
 
-Wizzle then showed her a jar of Sparkle Sweets. "These sweets will make you sparkle and shine like a star! Would you like a taste?"
-
-Lastly, Wizzle unveiled a plate of Frosty Fudge. "This fudge will give you the power to create snowflakes with a wave of your hand! Do you want to try it?"
+Next Wizzle then showed her a chocolate Reindeer. "These chocolates will make you sparkle and shine like a star! Would you like a taste?"
 
 ::::
 
@@ -48,7 +46,7 @@ Lastly, Wizzle unveiled a plate of Frosty Fudge. "This fudge will give you the p
 <div class="container">
 
   <div id="back">
-  <a href="market.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
   <div class="options">
@@ -57,11 +55,7 @@ Lastly, Wizzle unveiled a plate of Frosty Fudge. "This fudge will give you the p
   </div>
   
   <div class="option">
-  <a href="index.html"><img src="images/sparkle-sweets.png" alt="Sparkle Sweets"><div>Sparkle Sweets</div></a>
-  </div>
-  
-  <div class="option">
-  <a href="index.html"><img src="images/frosty-fudge.png" alt="Frosty Fudge"<div>Frosty Fudge</div></a>
+  <a href="chocolate-reindeer.html"><img src="images/chocolate-reindeer.png" alt="Chocolate Reindeer"><div>Chocolate Reindeer</div></a>
   </div>
   
   </div>

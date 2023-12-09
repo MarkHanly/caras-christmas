@@ -2,8 +2,13 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: " "
+  page-footer:
+    left: "[Go back to the start 🎄](index.html)"
+    right: "[About](about.html)"
+  
 
 format:
   html:

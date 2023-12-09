@@ -1,0 +1,81 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Chocolate Reindeer
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/cara-transforms.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Drawn to the allure of the Chocolate Reindeer, Cara eagerly selected one. As she took a bite, a wave of enchantment coursed through her, and she felt the chocolate stall slowly start to spin.
+
+Wizzle gazed in wonder as Cara's coat began to transform into a deer's tawny fur. A pair of majestic antler's sprouted from her forehead, her legs grew longer while her shoes and gloves transformed into black shiny hooves. 
+
+Before the chocolate treat was finished, Cara stood eight feet tall, magically transformed into a majestic reindeer, complete with velvety antlers.
+
+"Oh deer, oh deer, oh deer", muttered Wizzle, "this isn't supposed to happen!". 
+
+Cara trotted lightly into the Christmas Market, enjoying the fresh feeling of snow under her hooves. 
+
+"Come back!" called Wizzle, but Cara was too excited to hear. Gathering speed from a trot to a canter, Cara felt the rush of weightlessness beneath her and with a joyous leap she soared into the sky.
+
+Flying high above the market Cara could see the whole night-time forest spread out below. In a clearing in the woods she saw a group of snowmen playfully throwing snowballs. Each snowball sparkled with a different color, creating a dazzling display of winter magic.
+
+Cara suddenly noticed something strange flying up ahead. An elf sped through the air on a little red bicycle, leaving behind a trail of sparkles and jingling laughter. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  
+  <div class="option">
+  <a href="snowmen-reindeer.html"><img src="images/snowmen.png" alt="The Snowmen"><div>The Snowmen</div></a>
+  </div>
+  
+  <div class="option">
+    <a href="jinglebike-crash.html"><img src="images/jingleberry-bike.png" alt="Follow the bike"><div>Follow the bike</div></a>
+      </div>
+
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

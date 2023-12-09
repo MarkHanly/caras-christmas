@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {
@@ -29,15 +29,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-Normally I'd let you take a reindeer, explained Mrs Claus as she led Cara and Jingleberry to the barn. But they are all getting ready for the big run tonight. I'm sure Tipsycake will help you find Santa. 
+Normally I'd let you take a reindeer, explained Mrs Claus as she led Cara and Jingleberry to the stable But they are all getting ready for the big run tonight. I'm sure Tipsycake will help you find Santa. 
 
 As they entered, they were greeted by the warm glow of a turf fire. In the midst of this cozy atmosphere, Cara's eyes widened with wonder as she spotted a majestic unicorn resting calmly on a bed of ribbons and holly. 
 
 Tipsycake's fur shimmered like freshly fallen snow and her mane sparkled with tinsel. Around her neck hung a Christmas wreath braided with lanterns and bells. 
 
-Sensing adventure in the air, the unicorn stood to her full fight and trotted out of the warm barn into the snow-filled yard. Don't be naughty Jingleberry, pleaded Mrs Claus as she helped the elf onto Tipsycake's back. And remember to be nice, she added, lifting Cara up as well. 
+Sensing adventure in the air, the unicorn stood to her full fight and trotted out of the warm barn into the snow-filled yard. Don't be naughty Jingleberry, pleaded Mrs Claus as she helped the elf onto Tipsycake's back. And remember to be nice, she added, lifting Cara up behind the elf. 
 
-With a gallop of hooves and a golden spark, Cara and Jingleberry once again ascended into the starry sky. Soon they were high above the night-time forest, scanning the trees below for the lights of Santa's sleigh. 
+With a gallop of hooves and a golden spark, Cara and Jingleberry once again rose into the starry sky. Soon they were high above the night-time forest, scanning the trees below for the lights of Santa's sleigh. 
 
 
 ::::
@@ -51,20 +51,12 @@ With a gallop of hooves and a golden spark, Cara and Jingleberry once again asce
 <div class="container">
 
   <div id="back">
-  <a href="santas-workshop.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
-  <div class="options">
+  <div class="final-options">
   <div class="option">
-  <a href="index.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
-  </div>
-  
-  <div class="option">
-  <a href="index.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
-  </div>
-  
-  <div class="option">
-  <a href="index.html"><img src="images/stable.png" alt="Option 3"<div>The stable</div></a>
+  <a href="sleigh-tipsycake.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Santa's sleigh</div></a>
   </div>
   
   </div>

@@ -1,0 +1,76 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Santa Claus
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/sleigh-crash.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+As Cara descended from the starry sky she spotted Santa's sleigh lay nestled among the snow-covered trees of the night-time forest. The once-majestic sleigh, adorned with festive lights and laden with presents, was buried deep in tangle of briars.
+
+Cara padded towards the sleigh with Jingleberry still sitting on her back. Santa greeted them with a hearty "Ho, ho, ho! My dear friends, it seems I've hit a bit of a hiccup in my journey. The sleigh's harness got tangled in some flying gingerbread. I could use a bit of help to get everything back in order."
+
+"Fear not, Santa! We're here to lend a hand" said Jingleberry!
+
+Using her antlers, Cara carefully untangled the sleigh from the briars. Jingleberry ran back and forth gathering the fallen presents from the snow, his bells jingling all the way. 
+
+"Oh oh oh! Thank you both!" cried Santa in delight. But what are we to do, the reindeer took fright and ran away to the night-time forest. 
+
+Jingleberry looked at Cara and Cara looked back at Jingleberry. They both shared a festive smile. 
+
+With Santa's help, Jingleberry quickly harnessed Cara to the sleigh. Soon they were ready to take to the skies on the most magical journey of the year.
+
+
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="final-options">
+  
+  <div class="option">
+  <a href="flying-home-reindeer.html"><img src="images/harness-tipsycake.png" alt="Harness Tipsycake"<div>Harness Tipsycake</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

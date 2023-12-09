@@ -1,0 +1,62 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Flying home
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/santa-tipsycake.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Cara sat next to Santa, her eyes wide with wonder as they glided gracefully through the night. Jingleberry, perched on the edge of the sleigh, jingled his bells in harmony with the magical melody of the journey.
+
+As they flew over snow-covered landscapes and twinkling villages, spreading festive joy with every passing moment, Cara felt the enchantment of the night. Tipsycake's hooves beat in rhythm with the sleigh, leaving a trail of stardust that shimmered in the night sky.
+
+Realising that it was getting late, Santa directed the sleigh towards Cara's home. As they descended, Tipsycake gracefully touched down in front of Cara's house, her presence casting a magical glow over the village.
+
+Santa smiled warmly at Cara and said, "Thank you, my dear, for helping me on this Christmas night. It's time for you to head inside and await the wonders of the morning. 
+
+As Cara hugged Santa and Jingleberry goodbye, Tipsycake gave a gentle nuzzle, leaving behind a sprinkle of stardust. With a final "Ho, ho, ho!" Santa and his festive companions took to the sky, leaving Cara behind with the magic of Christmas in her heart.
+
+Falling asleep in her cozy bed, Cara dreamed of Christmas markets and chocolate reindeer. She dreamed of angry snowmen and Mrs Claus. She dreamed of Tipsycake the Christmas Unicorn flying high above the night-time forest. 
+
+***
+
+She dreamed of a kind, jingling voice asking "Where will I leave Cara's stocking, Santa?" 
+
+"Ho Ho Ho" came the reply "just leave it the end of the bed". 
+
+::::
+
+::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### The End
+:::
+![](images/cara-safe-home.png)
+
+:::
+
+
+
+::::::

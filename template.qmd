@@ -1,6 +1,6 @@
 ---
 title: ""
-include-before-body:
+include-after-body:
   text: |
     <script>
       document.getElementById("back").addEventListener("click", () => {
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-## The Christmas Market
+## Template
 
 ::::
 
@@ -46,7 +46,7 @@ Further down the glittering path, Cara spied a cozy stable adorned with glowing 
 <div class="container">
 
   <div id="back">
-  <a href="market.html"><img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;"></a>Go back
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
   <div class="options">
@@ -57,11 +57,7 @@ Further down the glittering path, Cara spied a cozy stable adorned with glowing 
   <div class="option">
   <a href="index.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
   </div>
-  
-  <div class="option">
-  <a href="index.html"><img src="images/stable.png" alt="Option 3"<div>The stable</div></a>
-  </div>
-  
+
   </div>
   ```
 

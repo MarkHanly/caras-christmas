@@ -1,0 +1,62 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Flying home
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/cara-sleigh.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+With Santa and Jingleberry safely aboard, Cara trotted forward, easily pulling the heavy sleigh behind her. As she reached a canter the sleigh began to lift into the star-studded sky. "Ho ho ho" called Santa, his booming joining the sound of jingling sleigh bells echoing thorugh the night. 
+
+Cara guided the sleigh over snow-covered fields and vast, glowing cities. She felt proud knowing she was helping to spread festive joy to children around the world. 
+
+Realising that it was getting late, Santa directed the sleigh towards Cara's home. Cara descended lightly outside her home, and as her hooves touched the snow the last of the magic melted away and she transformed back to herself.
+
+Santa smiled warmly at Cara and said, "Thank you, my dear, for helping me on this Christmas night. It's time for you to head inside and await the wonders of the morning. 
+
+Santa looked on kindly as Cara hugged Jingleberry goodbye. With a final "Ho, ho, ho!" Santa returned to the sky, leaving Cara behind with the magic of Christmas in her heart.
+
+Falling asleep in her cozy bed, Cara dreamed of Christmas markets and chocolate reindeer. She dreamed of angry snowmen and Mrs Claus. She dreamed of flying as a reindeer high above the night-time forest. 
+
+***
+
+She dreamed of a kind, jingling voice asking "Where will I leave Cara's stocking, Santa?" 
+
+"Ho Ho Ho" came the reply "just leave it the end of the bed". 
+
+::::
+
+::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### The End
+:::
+![](images/cara-safe-home.png)
+
+:::
+
+
+
+::::::

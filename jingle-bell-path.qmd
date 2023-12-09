@@ -1,0 +1,77 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Jinglebell Path Adventure
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/attacked-by-snowmen.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+With Madame Mistletoe's words in her head, Cara skipped along the Jingle Bell Path, surrounded by snow-covered tress on either side. The sound of her footsteps mixed with the cheerful jingling around her. 
+
+As Cara wandered deeper into the night-time forest, she started to notice a group of mischievous snowmen assembling behind her. Suddenly, the snowmen came to life, pelting her with snowballs. Cara giggled as she tried to dodge the frosty onslaught, but soon found herself surrounded.
+
+Just as she was about to be covered in a snowy blanket, a voice rang out, "Hold on there, frosty fellows! That's no way to treat a friend."
+
+Cara turned to see a lively elf with a jingling hat and a satchel of jingle berries. It was Jingleberry, the cheerful guardian of the Jingle Bell Path.
+
+With a swift wave of his jingle-berry-filled wand, Jingleberry cast a spell that made the snowmen break into laughter instead of launching snowballs. They danced and jingled around, transforming the icy battlefield into a winter wonderland of joy.
+
+"Phew, that was close! Thanks for saving me, Jingleberry," Cara exclaimed, grateful for her new elf friend.
+
+Jingleberry grinned, "No problem at all! Us elves stick together, especially during the most jingling time of the year. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="index.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="index.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
+  </div>
+
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::
