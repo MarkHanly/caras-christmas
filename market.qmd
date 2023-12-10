@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-As Cara, entered the market, her eyes sparkled with excitement. The first thing she saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted her with their deliciously festive shapes.
+As Cara entered the market, her eyes sparkled with excitement. The first thing she saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted her with their deliciously festive smells.
 
 Further down the glittering path, Cara spied a mysterious tent, where a wise old fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
 

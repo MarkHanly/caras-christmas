@@ -35,7 +35,7 @@ As Cara and Jingleberry approached, Santa greeted them with a hearty "Ho, ho, ho
 
 "But where are the reindeer, Santa?" asked Jingleberry. 
 
-"Prancer pranced off into the forest, and Dasher dashed after him" grubmbled Santa. "Now they've all run off".
+"Prancer pranced off into the forest, and Dasher dashed after him" grumbled Santa. "Now they've all run off".
 
 "Fear not, Santa! We're here to lend a hand" said Jingleberry, and with a merry whistle he summoned Tipsycake. 
 
@@ -64,7 +64,7 @@ Soon they were ready to take to the skies on the most magical journey of the yea
   <div class="final-options">
   
   <div class="option">
-  <a href="flying-home.html"><img src="images/harness-tipsycake.png" alt="Harness Tipsycake"<div>Harness Tipsycake</div></a>
+  <a href="flying-home.html"><img src="images/cara-sleigh.png" alt="Draw the sleigh"<div>raw the sleigh</div></a>
   </div>
   
   </div>
