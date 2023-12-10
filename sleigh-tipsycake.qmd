@@ -29,9 +29,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-As Tipsycake descended from the starry sky, Cara spotted Santa's sleigh lay nestled among the snow-covered trees of the night-time forest. The once-majestic sleigh, adorned with festive lights and laden with presents, was buried deep in tangle of briars.
+As Tipsycake descended from the starry sky, Cara spotted Santa's sleigh nestled among the snow-covered trees of the night-time forest. The once-majestic sleigh, adorned with festive lights and laden with presents, was buried deep in tangle of briars.
 
-As Cara and Jingleberry approached, Santa greeted them with a hearty "Ho, ho, ho! My dear friends, it seems I've hit a bit of a hiccup in my journey. The sleigh's harness got tangled in some flying gingerbread. I could use a bit of help to get everything back in order."
+As Cara and Jingleberry approached, Santa greeted them with a hearty "Ho, ho, ho! My dear friends, it seems I've hit a bit of a hiccup in my journey. The sleigh's harness got tangled in some flying gingerbread and we crashed into the snow."
+
+"But where are the reindeer, Santa?" asked Jingleberry. 
+
+"Prancer pranced off into the forest, and Dasher dashed after him" grubmbled Santa. "Now they've all run off".
 
 "Fear not, Santa! We're here to lend a hand" said Jingleberry, and with a merry whistle he summoned Tipsycake. 
 

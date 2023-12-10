@@ -31,21 +31,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Cara wandered wandered towards the fortune tellers, her eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As she approached the tent she noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
 
-Intrigued, Cara entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, she found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly elf with long red hair and twinkling green eyes.
+Intrigued, Cara entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, she found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly enchantress with long red hair and twinkling green eyes.
 
-"Ah, welcome, dear child! I've been expecting you," Madame Mistletoe said with smile.
+"Ah, welcome, dear child! I've been expecting you," Madame Mistletoe said with smile. 
 
 Cara blinked in surprise. "You have? How did you know?"
 
-Madame Mistletoe chuckled softly. "I see things that others might not. Now, let us unveil the mysteries of your Christmas fortune."
+Madame Mistletoe chuckled softly. "I see things that others might not. Now, let us unveil the mysteries of your Christmas fortune" she said, offering Cara a war, goblet of mulled mistletoe wine.
 
-Cara eagerly sat across from Madame Mistletoe as she held the crystal bauble up to the light. It sparkled with a magical glow, revealing images and hints of the adventure that awaited.
+Cara eagerly sat sipping the warming tonic while Madame Mistletoe gazed into her crystal bauble. The bauble sparkled with a magical glow, revealing flurried images of future adventures.
 
-"The crystal shows me visions of giggles and gumdrops. Eat them with joy, and let the laughter guide your way," Madame Mistletoe said, her voice filled with warmth.
+"The crystal shows me visions of new friends and starry skies" Madame Mistletoe said, her voice filled with warmth. "Let laughter and friendship guide your way."
 
 "But beware the snowmen, they are not always what they seem" added madame Mistletoe frostily.
 
-Cara nodded, her excitement building. She thanked Madame Mistletoe and left the tent. Where to next? she thought, with a thrill. 
+Cara nodded, her excitement building. She thanked Madame Mistletoe and left the candlelit tent. _It sounds like my adventure is just starting!_ she thought with a thrill. 
 
 ::::
 

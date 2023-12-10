@@ -31,9 +31,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The air was filled with the sweet scent of peppermint and magic as Cara approached the candy-cane bridge.
 
-Just as Cara set foot on the bridge, she heard a tiny voice nearby. Turning around, she discovered a mischievous Christmas elf named Jingleberry. With a twinkle in his eye and a hat adorned with jingling bells, Jingleberry looked like he was up to mischief.
+Just as she set foot on the bridge, Cara heard a tiny voice nearby. Turning around, she discovered a mischievous Christmas elf named Jingleberry. With a twinkle in his eye and a hat adorned with jingling bells, Jingleberry looked like he was up to mischief.
 
-"Hello there, Cara!" Jingleberry exclaimed, doing a little jig. "I'm Jingleberry, the elf of festive fun! I need your help with something important."
+"Hello there, Cara!" Jingleberry exclaimed, doing a little jig. "I'm Jingleberry, the elf of festive fun! I I need your help with something important."
 
 Cara looked at Jingleberry, her eyes wide with curiosity. "What can I do to help, Jingleberry?"
 
@@ -61,7 +61,7 @@ Poor little elf! thought Cara.
   </div>
   
   <div class="option">
-  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Search for Santa's workshop"<div>Search for Santa's workshop</div></a>
+  <a href="searching-for-santas-workshop.html"><img src="images/forest-path.png" alt="Search for Santa's workshop"<div>Search for Santa's workshop</div></a>
   </div>
   
   </div>

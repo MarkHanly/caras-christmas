@@ -5,6 +5,7 @@ project:
 
 website:
   title: " "
+  image: "images/tipsycake-side-profile"
   page-footer:
     left: "[Go back to the start 🎄](index.html)"
     right: "[About](about.html)"
@@ -18,4 +19,5 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
+    licence: "CC BY-NC"
 

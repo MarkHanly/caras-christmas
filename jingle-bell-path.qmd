@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-With Madame Mistletoe's words in her head, Cara skipped along the Jingle Bell Path, surrounded by snow-covered trees on either side. The sound of her footsteps mixed with the cheerful jingling around her. 
+Cara skipped along the Jingle Bell Path, surrounded by snow-covered trees on either side. The sound of her footsteps mixed with the cheerful jingling around her. 
 
 As Cara wandered deeper into the night-time forest, she started to notice a group of mischievous snowmen assembling behind her. Suddenly, the snowmen came to life, pelting her with snowballs. Cara giggled as she tried to dodge the frosty onslaught, but soon found herself surrounded.
 
@@ -37,7 +37,7 @@ Just as she was about to be covered in a snowy blanket, a voice rang out, "Hold 
 
 Cara turned to see a lively elf with a jingling hat and a satchel of jingle berries. It was Jingleberry, the cheerful guardian of the Jingle Bell Path.
 
-With a swift wave of his jingle-berry-filled wand, Jingleberry cast a spell that made the snowmen break into laughter instead of launching snowballs. They danced and jingled around, transforming the icy battlefield into a winter wonderland of joy.
+With a swift wave of his jingling wand, Jingleberry cast a spell that made the snowmen break into laughter instead of launching snowballs. They danced and jingled around, transforming the icy battlefield into a winter wonderland of joy.
 
 "Phew, that was close! Thanks for saving me, Jingleberry," Cara exclaimed, grateful for her new elf friend.
 
