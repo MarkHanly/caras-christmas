@@ -33,7 +33,7 @@ Cara and Jingleberry walked for hours through the night-time forest. There was n
 
 Cara felt cold and tired and even Jingleberry had stopped jingling gaily by her side. 
 
-Finally Cara sat down in the snow, exhausted. "I'm banjaxed" she cried "and we're lost!" Jingleberry jangled and knelt in the snow beside Cara. Using his cloak as a blanket, he wrapped it around Cara and she soon fell asleep. 
+Finally Cara sat down in the snow, exhausted. "I'm banjaxed" she cried "and we're lost!". Jingleberry jangled and knelt in the snow beside Cara. Using his cloak as a blanket, he wrapped it around Cara and she soon fell asleep. 
 
 "We're lost, we're lost" tinkled Jingleberry sadly, shivering in the snow.
 
@@ -62,7 +62,7 @@ Tipsycake was as white as freshly fallen snow, her mane was a glittering pink ti
   <div class="final-options">
   
   <div class="option">
-  <a href="flying-home.html"><img src="images/santa-on-tipsycake.png" alt="Rescued by Tipsycake"<div>Rescued by Tipsycake</div></a>
+  <a href="flying-home.html"><img src="images/santa-on-tipsycake.png" alt="Click here to fly home with Tipsycake"<div>Click here to fly home with Tipsycake</div></a>
   </div>
   
   </div>

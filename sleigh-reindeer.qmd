@@ -62,7 +62,7 @@ With Santa's help, Jingleberry quickly harnessed Cara to the sleigh. Soon they w
   <div class="final-options">
   
   <div class="option">
-  <a href="flying-home-reindeer.html"><img src="images/harness-tipsycake.png" alt="Harness Tipsycake"<div>Harness Tipsycake</div></a>
+  <a href="flying-home-reindeer.html"><img src="images/cara-sleigh.png" alt="Draw the sleigh"<div>Click here to draw the sleigh</div></a>
   </div>
   
   </div>

@@ -4,12 +4,13 @@ project:
 
 
 website:
-  title: " "
-  image: "images/tipsycake-side-profile"
+  title: "Cara's Christmas"
+  site-url: https://markhanly.github.io/caras-christmas/
+  image: /docs/images/tipsycake-side-profile.png
+  favicon: images/favicon.ico
   page-footer:
     left: "[Go back to the start 🎄](index.html)"
     right: "[About](about.html)"
-  
 
 format:
   html:

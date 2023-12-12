@@ -29,9 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-Laying in the snow was a little red bicycle with a sturdy frame and candycane handlebars. Cara hopped onto the back of the jinglebike, and with a joyful giggle, Jingleberry pedaled away through the night-time forest. 
+Laying in the snow was a little red bicycle with a sturdy frame and candy-cane handlebars. Cara hopped onto the jinglebike with Jingleberry behind her. With a joyful giggle, she pedaled away through the night-time forest. 
 
-It was hard work cycling through the snow and Jingleberry soon got tired. "Let's give it a some welly, eh", suggested Jingleberry. With a jingle of his bell and a burst of twinkling lights, they lifted off the ground.
+It was hard work cycling through the snow and Cara soon got tired. "Let's give it a some welly, eh", suggested Jingleberry. With a jingle of his bell and a burst of twinkling lights, they lifted off the ground.
 
 Cara and Jingleberry found themselves soaring through the night sky, the forest below transformed into a dazzling display of sparkling trees and glimmering snow.      
 
@@ -53,13 +53,10 @@ But there was something else catching their attention. In a clearing below, they
   <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
   </div>
   
-  <div class="options">
-  <div class="option">
-  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Santa's workshop"><div>Santa's workshop</div></a>
-  </div>
+  <div class="final-options">
   
   <div class="option">
-  <a href="santas-workshop.html"><img src="images/snowmen.png" alt="The snowmen"><div>The snowmen</div></a>
+  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Click here to land at Santa's workshop"><div>Click here to land at Santa's workshop</div></a>
   </div>
 
   </div>

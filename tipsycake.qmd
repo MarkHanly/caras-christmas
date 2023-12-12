@@ -29,13 +29,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-Normally I'd let you take a reindeer, explained Mrs Claus as she led Cara and Jingleberry to the stable But they are all getting ready for the big run tonight. I'm sure Tipsycake will help you find Santa. 
+"Normally I'd let you take a reindeer", explained Mrs Claus as she led Cara and Jingleberry to the stable "But they are all getting ready for the big run tonight. I'm sure Tipsycake will help you find Santa." 
 
-As they entered, they were greeted by the warm glow of a turf fire. In the midst of this cozy atmosphere, Cara's eyes widened with wonder as she spotted a majestic unicorn resting calmly on a bed of ribbons and holly. 
+As they entered the stable they were greeted by the warm glow of a turf fire. In the midst of this cozy atmosphere, Cara's eyes widened with wonder as she spotted a majestic unicorn resting calmly on a bed of ribbons and holly. 
 
 Tipsycake's fur shimmered like freshly fallen snow and her mane sparkled with tinsel. Around her neck hung a Christmas wreath braided with lanterns and bells. 
 
-Sensing adventure in the air, the unicorn stood to her full height and trotted out of the warm barn into the snow-filled yard. Don't be naughty Jingleberry, pleaded Mrs Claus as she helped the elf onto Tipsycake's back. And remember to be nice, she added, lifting Cara up behind the elf. 
+Sensing adventure in the air, the unicorn stood to her full height and trotted out of the warm stable into the snow-filled yard. "Don't be naughty Jingleberry", pleaded Mrs Claus as she helped the elf onto Tipsycake's back. "And remember to be nice" she added, smiling, as she lifted Cara up behind the elf. 
 
 With a gallop of hooves and a golden spark, Cara and Jingleberry rose into the starry sky. Soon they were high above the night-time forest, scanning the trees below for the lights of Santa's sleigh. 
 
@@ -56,7 +56,7 @@ With a gallop of hooves and a golden spark, Cara and Jingleberry rose into the s
   
   <div class="final-options">
   <div class="option">
-  <a href="sleigh-tipsycake.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Santa's sleigh</div></a>
+  <a href="sleigh-tipsycake.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Click here to find Santa's sleigh</div></a>
   </div>
   
   </div>

@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 As Cara and Jingleberry landed among the snowmen, a chilly hush settled over the glade. From afar the snowmen had looked cheerful, but up close Cara could see the anger in their coal black eyes.
 
-Two of the closest snowmen heard Jingleberry jingling and they started to move towards Cara and the elf. 
+Two of the closest snowmen heard Jingleberry jingling and they started to move sleetily towards Cara and the elf. 
 
 "Oh snowballs" tolled Jingleberry. Cara was starting to feel nervous.
 
@@ -39,7 +39,7 @@ Just then the glade was filled with the smell of chocolate biscuits and warm mil
 
 "Away with you, dirty Snowmen" roared Mrs Claus with glee, brandishing a poker at the powdery snowmen. Their frosty faces melted into the shadows. 
 
-"Oh darlings it's good to meet you, I'm looking for Santa and his sleigh" explained Mrs Claus. "It's Christmas eve but he can't be found". Can you help me search the night-time forest? Or perhaps we should go back to the stable to fetch Tipsycake. 
+"Oh darlings it's good to meet you, I'm looking for Santa and his sleigh" explained Mrs Claus. "It's Christmas eve but he can't be found". Can you help me search the night-time forest? Or perhaps we should go back to the stable to fetch Tipsycake? 
 
 ::::
 

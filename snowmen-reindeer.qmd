@@ -31,11 +31,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Cara landed in the snow-filled glade, her reindeer hooves barely making a sound.
 
-Ahead of her she saw the snowmen gathering in a circle surrounding a trembling Christmas elf. The snowmen had their snowballs at the ready, and Cara could see they were slushy and icy cold. 
+Ahead of her she saw the snowmen gathered in a circle surrounding a trembling Christmas elf. The snowmen had their snowballs at the ready, and Cara could see they were slushy and icy cold. 
 
 "Please, no!" cried the little elf with a terrified jingle.
 
-With a determined gleam in her reindeer eyes, Cara galloped towards the snowmen. With a swift shake of her antlers, she created a shield of swirling snow, blocking the incoming barrage and rescuing the elf from the snowy assault.
+With a determined gleam in her reindeer eyes, Cara galloped towards the snowmen. Shaking her antlers, she created a shield of swirling snow, blocking the incoming barrage and rescuing the elf from the snowy assault.
 
 "Oh thank you!" exclaimed the elf, "these snowmen are a menace". 
 
@@ -45,7 +45,7 @@ The mischievous snowmen watched in awe as Cara and Jingleberry flew away, leavin
 
 "I'm Jingleberry by the way" said the elf, clutching to Cara's velvety antlers. "Thank you for saving me!" he continued, with a jingle and a smile. "Do you think you could drop me back to Santa's workshop?"
 
-Feeling the Chocolate Reindeer magic begin to fade, Cara knew she would have to land soon. They flew over the night-time forest towards to glowing lights and far-off singing from Santa's workshop. 
+Feeling the Chocolate Reindeer magic begin to fade, Cara knew she would have to land soon. They flew over the night-time forest towards to glowing lights and far-off sounds of hammering and singing from Santa's workshop. 
 
 Oh look! said Jingleberry, pointing excitedly. Far below, there was a beautiful wooden sleigh nestled among the tall evergreen trees. "I think that's Santa's sleigh" he jingled merrily. "But if that's Santa's sleigh, where are the reindeer?" wondered Cara. 
 
