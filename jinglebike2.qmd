@@ -56,6 +56,10 @@ But there was something else catching their attention. In a clearing below, they
   <div class="final-options">
   
   <div class="option">
+  <a href="cara-and-the-snowmen.html"><img src="images/snowmen.png" alt="The snowmen"><div>The snowmen</div></a>
+  </div>
+  
+  <div class="option">
   <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Click here to land at Santa's workshop"><div>Click here to land at Santa's workshop</div></a>
   </div>
 

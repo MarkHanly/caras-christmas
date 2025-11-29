@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-Cara wandered wandered towards the fortune tellers, her eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As she approached the tent she noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
+Cara wandered towards the fortune teller's tent, her eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As she approached the tent she noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
 
 Intrigued, Cara entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, she found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly enchantress with long red hair and twinkling green eyes.
 
